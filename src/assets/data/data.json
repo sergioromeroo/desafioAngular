@@ -1,0 +1,47 @@
+{
+    "name": "Sergio Romero",
+    "title":"Programador Full Stack",
+    
+    "acercaDe": [
+        {
+            "anio": "2015",
+            "title": "Secundaria",
+            "subtitle": "Colegio Padre Faustino",
+            "description": "Secundario completo bachillerato en economia y gestion "
+        },
+        {
+            "anio": "2018",
+            "title": "Curso Refrigeracion e instalador aire acondicionado",
+            "subtitle": "Curso profesional de refrigeracion",
+            "description": "tecnico matriculado de refrigeracion aire acondicionado de CAIM. Cámara Argentina de Instaladores Matriculados "
+        },
+        {
+            "anio": "2019",
+            "title": "Universidad ingenieria en informatica",
+            "subtitle": "universidad arturo jauretche",
+            "description": "segundo año en curso en la carrera de ingenieria informatica en la universidad de florencio varela Arturo Jauretche "
+        },
+        {
+            "anio": "2021",
+            "title": "Curso Programacion",
+            "subtitle": "Digital House",
+            "description":"Curso intensivo de programador Digital House duracion de 8 meses. Proyecto profesional en el marco del curso de Digital House. Aplicación de arquitectura MVC. Desarrollo de operaciones crud, registro de usuarios. Lógica de roles. Integración con base de datos. 3 integrantes. (Node.js, Express, MySql, Sequelize, Ejs, Bootstrap, Css, Metodología Scrum)."
+        }
+        
+    ],
+
+    "experience":[
+        {
+            "anio": "2019",
+            "title": "Electricista",
+            "subtitle": "Dmelec",
+            "description": "Electricista duracion de 1 año "
+        },
+        {
+            "anio": "2021",
+            "title": "E-commerce Electodo",
+            "subtitle": "(abril 2021 - octubre 2021)",
+            "description": "Proyecto profesional en el marco del curso de Digital House. Aplicación de arquitectura MVC. Desarrollo de operaciones crud, registro de usuarios. Lógica de roles. Integración con base de datos. 3 integrantes. (Node.js, Express, MySql, javascript, javascript front end, Ejs, Bootstrap, Css, Metodología Scrum). "
+        }
+    ]
+}
